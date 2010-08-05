@@ -1,0 +1,8 @@
+1. cd to folder and flosc then type; java Gateway 7000 3000
+2. launch pong in maxmsp > runtimes > mac > VoicePong
+3. launch flash > examples > pong.swf 
+
+Have a look at; 
+
+http://www.tree-axis.com/Ess/_examples/inputFFT/inputFFT.pde << Processing
+http://music.ece.drexel.edu/ALFdocs/files/DATF-as.html << Alchemy compiled c++ app with interface for AS3
