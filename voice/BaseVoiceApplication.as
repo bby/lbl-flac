@@ -19,7 +19,7 @@ package voice
 		
 		public function BaseVoiceApplication()
 		{
-			Logger.addLogger(new TrazzleConnector());
+			//Logger.addLogger(new TrazzleConnector());
             
 			_voice = new VoiceConnection();
 			_voice.addEventListener(VoiceDataEvent._EVENT,handleVoiceEvents);
